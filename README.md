@@ -5,7 +5,7 @@ This project was to train react components and useStates, fetching data, CSS.
 Deployed website: 
 https://pokemonapp-react.netlify.app/
 
-## Stretch Goals
+## Working on strech goals
 
-I want to add some feature as a input field to filter pokemons but name, or type.
+I want to add some feature as a input field to filter pokemons per name, or type.
 
